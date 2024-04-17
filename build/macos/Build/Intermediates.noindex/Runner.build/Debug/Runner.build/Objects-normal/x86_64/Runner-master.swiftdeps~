@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+options: "3e369f3da28facf211d54897ac37032fe75bf67734975aba6a6c005e0ca955a2"
+build_start_time: [1713287261, 229732000]
+build_end_time: [1713287261, 831227000]
+inputs:
+  "/Users/faabsystems/Downloads/test/macos/Flutter/GeneratedPluginRegistrant.swift": !private [1713287237, 620939390]
+  "/Users/faabsystems/Downloads/test/macos/Runner/AppDelegate.swift": !private [1695832098, 0]
+  "/Users/faabsystems/Downloads/test/macos/Runner/MainFlutterWindow.swift": !private [1695832098, 0]
